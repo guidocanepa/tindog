@@ -1,1 +1,2 @@
-TinDog Starting Files
+Tindog - 
+Practicing Bootstrap :)
